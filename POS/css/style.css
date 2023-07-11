@@ -1,0 +1,26 @@
+.invoice {
+    width: 75%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    font-family: Arial, sans-serif;
+  }
+  
+  .invoice h2 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .invoice p {
+    margin: 10px 0;
+  }
+  
+  .invoice strong {
+    font-weight: bold;
+  }
+  
+  .invoice .item-name {
+    text-transform: capitalize;
+  }
+  
